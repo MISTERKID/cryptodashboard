@@ -28,6 +28,10 @@
 
 A professional-grade cryptocurrency dashboard engineered for performance and aesthetics. Powered by the **Binance API**, it delivers live market data, interactive candlestick charts, and comprehensive 24h statistics in a sleek, dark-mode interface.
 
+<br />
+
+![Dashboard Interface](public/screenshots/screenshot.png)
+
 ---
 
 ## 💎 Key Features
